@@ -1,39 +1,39 @@
-Hi there, I'm Shelby Dixon!
+# Shelby Dixon  
 
+<p align="center">
+  <b>Computer Engineering Student | AI, Robotics & Cybersecurity</b>
+</p>
 
-Computer Engineering Student at UH Manoa (IEEE Student Member)
+<p align="center">
+  <a href="https://github.com/sdixon4">GitHub</a> •
+</p>
 
-Currently building an AI-powered Raspberry Pi Robot with computer vision & embedded AI
+---
 
-Exploring cybersecurity applications of AI & quantum computing
+## 🛠 Skills & Technologies  
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/C++-blue" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-green" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Linux-black" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/TensorFlow-orange" /></td>
+  </tr>
+</table>
 
-Preparing for AI & robotics certifications (NVIDIA Jetson AI, OSCP, IBM Qiskit)
+---
 
-Always learning! Currently diving into FPGA programming & AI hardware acceleration
+## 🔧 Featured Projects  
+<details>
+  <summary>🚀 AI-Powered Raspberry Pi Robot</summary>
+  <p>Object detection & voice control with TensorFlow Lite.</p>
+  <p><a href="#">🔗 View on GitHub</a></p>
+</details>
 
+<details>
+  <summary>🛡 AI Malware Detector</summary>
+  <p>Cybersecurity tool using ML for threat detection.</p>
+  <p><a href="#">🔗 View on GitHub</a></p>
+</details>
 
-
-Highlighted Projects:
-
-AI-Powered Raspberry Pi Robot - Object detection & voice control with TensorFlow Lite
-
-AI Malware Detector - Cybersecurity tool using ML for threat detection
-
-FPGA AI Accelerator - Hardware-optimized AI inference with Verilog & TensorFlow
-
-
-
-Certifications in Progress:
-
-Harvard CS50 (Computer Science Foundations)
-
-NVIDIA Jetson AI Specialist (Embedded AI & Robotics)
-
-Offensive Security Certified Professional (OSCP) (Cybersecurity)
-
-IBM Qiskit Fundamentals (Quantum Computing & Cryptography)
-
-<!--
-**sdixon4/sdixon4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+---
 
