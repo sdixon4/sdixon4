@@ -1,44 +1,20 @@
-# Shelby Dixon
+# About Me
 
-## About Me
-**Computer Engineering Student at UH Manoa (IEEE Student Member)**  
-Currently building an **AI-powered Raspberry Pi Robot** with computer vision & embedded AI.  
-Passionate about **cybersecurity, AI security, robotics, and hardware acceleration**.  
-Preparing for **AI & robotics certifications**: **NVIDIA Jetson AI, OSCP, IBM Qiskit**.  
-Always learning—currently diving into **FPGA programming & AI hardware optimization**.  
+Hi, I’m Shelby Dixon — an undergraduate researcher at the University of Hawai‘i at Mānoa with a deep interest in systems that are ethical, resilient, and ready for the real world.
 
----
+Right now I’m working on a capstone proposal for the 2025 NASA EPSCoR ISS Flight Opportunity. The project involves building a low-power, fault-tolerant AI system to monitor plant health in microgravity. It blends embedded sensing, Verilog-based logic, and onboard inference, and it’s designed with dual-use applications in mind for off-grid and climate-resilient agriculture in Hawai‘i.
 
-## 🔬 Projects & Research
-### **Highlighted Projects**
-- **AI-Powered Raspberry Pi Robot** - Object detection & voice control with **TensorFlow Lite**  
-- **AI Malware Detector** - Cybersecurity tool using **ML for threat detection**  
-- **FPGA AI Accelerator** - Hardware-optimized AI inference with **Verilog & TensorFlow**  
+But that’s not the whole story.
 
-🔗 **[See all my projects on GitHub](#)**  
+Before I ever wrote a line of Verilog, I worked on organic farms. I’ve harvested hundreds of pounds of Salad Keiki greens by hand before the sun would rise, taught field trips at community gardens, and thought deeply about what it means to grow food with intention. I care about food systems, place-based design, and how technology can serve people rather than distance them. That perspective shapes everything I build.
 
----
+When I’m not immersed in technical architecture or grant deadlines, I’m probably baking something overly complicated, re-reading my notes about cyborg theory, or taking long walks while debugging ideas in my head. I think best when I’m moving, and I design best when I remember that engineering is about people first.
 
-## 🎓 Certifications & Learning Path
-### **Certifications in Progress:**
-✔ **Harvard CS50** - Computer Science Foundations  
-✔ **NVIDIA Jetson AI Specialist** - Embedded AI & Robotics  
-✔ **OSCP (Offensive Security Certified Professional)** - Cybersecurity  
-✔ **IBM Qiskit Fundamentals** - Quantum Computing & Cryptography  
+This space is where I’m bringing together the technical and the human. I’m learning to lead. I’m learning to let go of perfection. I’m building something that might fly.
 
----
+Let’s see where it goes.
 
-## 💡 Skills
-- **Programming Languages:** C, C++, Python, Verilog  
-- **AI & Machine Learning:** TensorFlow, PyTorch, Embedded AI  
-- **Cybersecurity:** AI Security, Network Security, Malware Analysis  
-- **Hardware & Robotics:** FPGA Design, Embedded Systems, ROS  
+—
 
----
-
-## 📧 Contact Me
-📩 **Email:** [sdixon4@hawaii.edu](mailto:sdixon4@hawaii.edu)  
-
----
-
-
+### Contact
+sdixon@hawaii.edu
