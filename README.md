@@ -8,7 +8,7 @@ But that’s not the whole story.
 
 Before I ever wrote a line of Verilog, I worked on organic farms. I’ve harvested hundreds of pounds of salad keiki greens by hand before the sun would rise, weeded fields under the sun, and thought deeply about what it means to grow food with intention. I care about food systems, place-based design, and how technology can serve people rather than distance them. That perspective shapes everything I build.
 
-When I’m not immersed in technical architecture or grant deadlines, I’m probably baking something overly complicated, walking my dog, or traveling. I think best when I’m moving, and I design best when I remember that engineering is about people first.
+When I’m not immersed in technical architecture or grant deadlines, I’m probably baking something overly complicated, hiking some trail with my dog, or traveling. I think best when I’m moving, and I design best when I remember that engineering is about people first.
 
 This space is where I’m bringing together the technical and the human. I’m learning to lead. I’m learning to let go of perfection. I’m building something that might fly.
 
